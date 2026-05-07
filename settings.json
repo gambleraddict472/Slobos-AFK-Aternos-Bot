@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "newexperiment.aternos.me",
+    "ip": "newexperiment.aternos.me:34519",
     "port": 34519,
-    "version": "1.20",
+    "version": "1.21",
     "try-creative": false
   },
   "position": {
